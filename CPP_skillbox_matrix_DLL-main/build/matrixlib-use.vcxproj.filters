@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\user\Desktop\CPP_skillbox_matrix_DLL-main\CPP_skillbox_matrix_DLL\exe\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\CPP_skillbox_matrix_DLL-main\CPP_skillbox_matrix_DLL\exe\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F6E8D90C-5E71-383A-96F1-AFD987407094}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

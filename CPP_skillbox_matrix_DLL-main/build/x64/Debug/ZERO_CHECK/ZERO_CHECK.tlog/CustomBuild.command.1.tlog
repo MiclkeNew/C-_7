@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\CPP_SKILLBOX_MATRIX_DLL-MAIN\BUILD\CMAKEFILES\0766E5330F453F182DB995CD36E658F1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Desktop/CPP_skillbox_matrix_DLL-main/CPP_skillbox_matrix_DLL/exe -BC:/Users/user/Desktop/CPP_skillbox_matrix_DLL-main/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/Desktop/CPP_skillbox_matrix_DLL-main/build/matrixlib-use.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

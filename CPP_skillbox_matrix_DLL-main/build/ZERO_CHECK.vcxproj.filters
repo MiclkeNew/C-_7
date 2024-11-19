@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\CPP_skillbox_matrix_DLL-main\build\CMakeFiles\0766e5330f453f182db995cd36e658f1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B340C86A-6372-3AF1-BC6B-C3ACB0A48AF9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
